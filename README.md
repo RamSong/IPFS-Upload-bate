@@ -70,6 +70,12 @@ Fork or Download 这个项目
 
 （搭建请看下面IPFS项目和客户端客户端，安装后运行 ipfs daemon开启节点，其中 5001端口是API，8080 端口是网关）
 
+ 目前收集到两个API
+ 
+ https://ipfs.staging.infura.org:5001/api/v0/add?pin=true (反应快一点)
+ 
+ https://ipfs-vvhan-com.glitch.me/api/v0/add?pin=true  （反应有点慢)
+
 ## 网关和Cid/Hash
 
 ***
