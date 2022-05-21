@@ -32,7 +32,7 @@ Demo-IPFS主网(官方) : [https://ipfs.io/ipfs/QmeuXBFNqKCk2MxwXG39GyMoDUUk1oKH
 
 Demo-IPFS小龙(阿里): [https://ipfsgw.stariverpan.com/ipfs/QmeuXBFNqKCk2MxwXG39GyMoDUUk1oKHLc5qaKqjHgYcN3](https://ipfsgw.stariverpan.com/ipfs/QmeuXBFNqKCk2MxwXG39GyMoDUUk1oKHLc5qaKqjHgYcN3 "https://ipfsgw.stariverpan.com/ipfs/QmeuXBFNqKCk2MxwXG39GyMoDUUk1oKHLc5qaKqjHgYcN3")
 
-Demo-IPFS-TTH(全球CDN): [https://tth-ipfs.com/ipfs/QmeuXBFNqKCk2MxwXG39GyMoDUUk1oKHLc5qaKqjHgYcN3](https://tth-ipfs.com/ipfs/QmeuXBFNqKCk2MxwXG39GyMoDUUk1oKHLc5qaKqjHgYcN3 "https://tth-ipfs.com/ipfs/QmeuXBFNqKCk2MxwXG39GyMoDUUk1oKHLc5qaKqjHgYcN3")
+Demo-IPFS-CloudFlare全球CDN): [https://bafybeihwe2sbuhixw6eg7f3j5gkqo4wuxu7u5lxlzdaww3g3in447dmnpa.ipfs.cf-ipfs.com/](https://bafybeihwe2sbuhixw6eg7f3j5gkqo4wuxu7u5lxlzdaww3g3in447dmnpa.ipfs.cf-ipfs.com/ "[https://tth-ipfs.com/ipfs/QmeuXBFNqKCk2MxwXG39GyMoDUUk1oKHLc5qaKqjHgYcN3](https://bafybeihwe2sbuhixw6eg7f3j5gkqo4wuxu7u5lxlzdaww3g3in447dmnpa.ipfs.cf-ipfs.com/)")
 
 快速上传一些小文件到IPFS全球网络
 
